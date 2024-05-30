@@ -1,0 +1,48 @@
+.backgroundimg3
+{
+    display: flex;
+    position: absolute;
+    top: 83rem;
+    height: 100%;
+    width: 100%;
+}
+.backgroundimg4
+{
+   position: relative;
+   height: 15rem;
+   top: 62rem;
+   left: 56rem;
+   transition: 0.5s;
+ }
+
+.backgroundimg4:hover
+{
+    opacity: 1;
+    transform: scale(1.3);
+    transition: 1s;
+    border: 2px solid black;
+
+}
+
+.headings 
+{
+    top: 49rem;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 10rem;
+
+}
+.headings h3
+{
+    position: relative;
+    top: 2rem;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.headings p
+{
+    top: 3rem;
+    position: relative;
+    gap: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

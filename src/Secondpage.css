@@ -1,0 +1,99 @@
+.backgroundimg2
+{
+   display: flex;
+   position: absolute;
+   top: 45rem;
+   height: 100%;
+   width: 100%;
+}
+.heading1
+{
+    display: flex;
+    position: relative;
+    top: 34rem;
+    left: 34rem;
+    font-size: 15px;
+    font-weight: 100;
+}
+.ptag
+{
+    top: 38rem;
+    display: flex;
+    position: relative;
+    left: 38rem;
+    color: red;
+    font-weight: 300;
+}
+.click
+{
+    position: relative;
+    display: flex;
+    top: 45rem;
+    left: 5rem;
+    
+}
+.bgimg 
+{
+    position: relative;
+    height: 10rem;
+    width: 15rem;
+}
+/*.container
+{
+  position: relative;
+  top: 20rem;  
+}
+.container img
+{
+    position: relative;
+}
+.container figcaption*/
+.container 
+{
+    position: relative;
+    top: 43rem;
+    left: 15rem;
+    cursor: pointer;
+    display: flex;
+    gap: 10rem;
+    align-items: center;
+}
+
+.container figure img
+{
+    width: 10rem;
+    margin-left: 2rem;
+    border-radius: 5px;
+    align-items: center;
+    
+}
+
+.container figure p
+{
+    width: 10rem;
+    position: relative;
+   text-align: center;
+    left: 2rem;
+    align-items: center;
+    
+}
+.container figure figcaption
+{
+    left: 4.5rem;
+    position: relative;
+    font-weight: bold;
+    align-items: center;
+}
+.container figure
+{
+    width: 15rem;
+    height:15rem;
+   background-color: white;
+   padding: 10px;
+   justify-content: center;
+   box-shadow: 0px 0px 10px black;
+   border-radius: 5px;
+   align-items: center;
+   right: 4rem;
+   position: relative;
+}

@@ -1,0 +1,120 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.background-img
+{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+   
+
+}
+.link
+{
+  text-decoration: none;
+  color: white;
+  display: flex;
+  position: relative;
+  left: 60rem;
+  float: left;
+  gap: 25px;
+  bottom: 1rem;
+
+  
+}
+.link a:hover
+{
+  color: red;
+  transition: 0.5s;
+  
+}
+.link h3{
+  position: relative;
+  display: flex;
+  right:73.8rem;
+  top: 7rem;
+  color: rgb(235, 235, 24);
+  font-weight: 500;
+}
+.upperh3
+{
+  position: relative;
+ color: white;
+ left: 7rem;
+ top: 0.5rem;
+}
+.logo
+{
+  position: relative;
+  top: 2.5rem;
+  color: red;
+  left: 5rem;
+  font-size: 26px;
+}
+.link h1
+{
+  position: relative;
+  top: 11rem;
+  right: 84rem;
+  font-weight: 700;
+  color: red;
+  font-family: sans-serif;
+}
+.lowerheading h4
+{
+  position: relative;
+  top: 17rem;
+  right: 40rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 700;
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  display: flex;
+  
+ 
+ 
+}
+.lowerheading button
+{
+  position: relative;
+  top: 20rem;
+  right: 39.5rem;
+  font-size: 23px;
+  padding: 5px;
+  background-color: red;
+  color: black;
+  text-decoration: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 200;
+  cursor: pointer;
+  border: none
+  
+}
+
+
+button:hover{
+  background-color: royalblue;
+  transition: 0.4s;
+}
+a {
+  text-decoration: none;
+  color: white;
+  position: relative;
+  font-weight: 600;
+}
+
+@media screen and (max-width:1200px) {
+   a
+  {
+    position: absolute;
+    flex-direction: column;
+   
+
+  }
+  
+}

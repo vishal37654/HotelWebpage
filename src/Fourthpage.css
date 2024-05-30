@@ -1,0 +1,76 @@
+.pagefourbgimg
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 120rem;
+
+}
+.containerss h1
+{
+    position: relative;
+    top: 83rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.containerss h3
+{
+    position: relative;
+    top: 85rem;
+    text-align: center;
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.chef1
+{
+    position: relative;
+    height: 17rem;
+    top: 86.7rem;
+    left: 13rem;
+}
+.chef2
+{
+    position: relative;
+    height: 17rem;
+    top: 86.7rem;
+    left: 24rem;
+}
+.chef3
+{
+    position: relative;
+    height: 17rem;
+    top: 86.7rem;
+    left: 34rem;
+}
+
+.bgimg4
+{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    top: 96rem;
+}
+.heading h1
+{
+    position: relative;
+    top: 70rem;
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: center;
+}
+.heading h3
+{
+    top:73rem ;
+    position: relative;
+    text-align: center;
+    color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+}
+.chefsimg
+{
+    gap: 20px;
+    position: relative;
+    align-items: center;
+}
